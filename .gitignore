@@ -1,0 +1,6 @@
+.aider*
+.env
+*.json
+__pycache__/
+*.pyc
+transcripts/
