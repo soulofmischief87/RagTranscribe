@@ -1,6 +1,6 @@
 # GasMan Transcriber
 
-A Django-based audio transcription service that uses Google Cloud Speech-to-Text API for accurate transcription with speaker diarization. This service is part of the GasMan 2000 platform, designed to help process and analyze gas station-related audio recordings.
+A Django-based audio transcription service that uses Google Cloud Speech-to-Text API for accurate transcription with speaker diarization. This service can be integrated platform to any platform for RAG purposes, designed to help process and analyze gas station-related audio recordings.
 
 ## Features
 
