@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 transcripts/
 media/audio/
+db.sqlite3
